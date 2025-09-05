@@ -108,7 +108,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn openpyxl
 - **Common Treatments:** [Most prescribed treatments]
 - **Chronic Diseases:** [Most prevalent conditions]
 
-## 🛠️ Technical Implementation
+## Technical Implementation
 
 ### Libraries Used
 ```python
@@ -189,13 +189,7 @@ Pusula_Tugce_Sandikli/
 
 For questions or clarifications about this analysis:
 
-**Email:** [Your Email]  
+**Email:** tugcesandikli@gmail.com  
 **Project Repository:** `https://github.com/tugcesandikli/Pusula_Tugce_Sandikli`
 
-## Notes
-
-- Ensure the Excel file `Talent_Academy_Case_DT_2025.xlsx` is in the same directory
-- The analysis generates several plots - close each plot window to continue execution
-- Processing time depends on system specifications (estimated: 2-5 minutes)
-- All preprocessing steps are logged to console for transparency
 
